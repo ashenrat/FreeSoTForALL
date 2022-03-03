@@ -1,0 +1,6 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 454 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Loader.vcxproj -> C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\bin\Release\Loader.exe

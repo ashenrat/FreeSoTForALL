@@ -1,0 +1,129 @@
+﻿  unity_G1L9U4YOHMEVUIC0.cpp
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(416,30): warning C4099: 'AAthenaPlayerCharacter': type name first seen using 'struct' now seen using 'class'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(377): message : see declaration of 'AAthenaPlayerCharacter'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(435,30): warning C4099: 'AAthenaPlayerCharacter': type name first seen using 'struct' now seen using 'class'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(377): message : see declaration of 'AAthenaPlayerCharacter'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(438,48): warning C4099: 'AAthenaPlayerCharacter': type name first seen using 'struct' now seen using 'class'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(377): message : see declaration of 'AAthenaPlayerCharacter'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(459,20): warning C4099: 'APlayerState': type name first seen using 'struct' now seen using 'class'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(380): message : see declaration of 'APlayerState'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(547,16): warning C4101: 'ReturnValue': unreferenced local variable
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(784,15): warning C4099: 'UClass': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(284): message : see declaration of 'UClass'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(785,15): warning C4099: 'UClass': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(284): message : see declaration of 'UClass'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(889,19): warning C4099: 'UWwiseEvent': type name first seen using 'struct' now seen using 'class'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(801): message : see declaration of 'UWwiseEvent'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(948,1): warning C4099: 'UGrenadeSetupDataAsset': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(947): message : see declaration of 'UGrenadeSetupDataAsset'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(984,67): warning C4099: 'FString': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(302): message : see declaration of 'FString'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1110,65): warning C4099: 'FString': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(302): message : see declaration of 'FString'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1121,70): warning C4099: 'FString': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(302): message : see declaration of 'FString'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1132,27): warning C4099: 'APlayerState': type name first seen using 'struct' now seen using 'class'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(380): message : see declaration of 'APlayerState'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1223,29): warning C4099: 'UBootyStorageSettings': type name first seen using 'struct' now seen using 'class'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1207): message : see declaration of 'UBootyStorageSettings'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1239,20): warning C4099: 'AShipService': type name first seen using 'struct' now seen using 'class'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1196): message : see declaration of 'AShipService'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1241,20): warning C4099: 'ATimeService': type name first seen using 'struct' now seen using 'class'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1229): message : see declaration of 'ATimeService'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1247,20): warning C4099: 'ACrewService': type name first seen using 'struct' now seen using 'class'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1139): message : see declaration of 'ACrewService'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1250,22): warning C4099: 'AIslandService': type name first seen using 'struct' now seen using 'class'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1033): message : see declaration of 'AIslandService'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1308,28): warning C4099: 'ABootyStorageService': type name first seen using 'struct' now seen using 'class'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1220): message : see declaration of 'ABootyStorageService'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1375,24): warning C4099: 'USceneComponent': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1375): message : see declaration of 'USceneComponent'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1449,23): warning C4099: 'USceneComponent': type name first seen using 'struct' now seen using 'class'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1375): message : see declaration of 'USceneComponent'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1516,29): warning C4099: 'UStaticMeshComponent': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1147): message : see declaration of 'UStaticMeshComponent'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1517,29): warning C4099: 'UStaticMeshComponent': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1147): message : see declaration of 'UStaticMeshComponent'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1529,15): warning C4099: 'UClass': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(284): message : see declaration of 'UClass'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1538,15): warning C4099: 'UClass': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(284): message : see declaration of 'UClass'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1568,16): warning C4099: 'UObject': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(156): message : see declaration of 'UObject'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1569,16): warning C4099: 'UObject': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(156): message : see declaration of 'UObject'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1570,16): warning C4099: 'UObject': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(156): message : see declaration of 'UObject'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1571,16): warning C4099: 'UObject': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(156): message : see declaration of 'UObject'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1574,15): warning C4099: 'UClass': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(284): message : see declaration of 'UClass'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1575,15): warning C4099: 'UClass': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(284): message : see declaration of 'UClass'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1578,18): warning C4099: 'AItemInfo': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1167): message : see declaration of 'AItemInfo'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1660,18): warning C4099: 'AItemInfo': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(1660): message : see declaration of 'AItemInfo'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(2395,49): warning C4099: 'AAthenaPlayerCharacter': type name first seen using 'struct' now seen using 'class'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(377): message : see declaration of 'AAthenaPlayerCharacter'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(2411,48): warning C4099: 'AAthenaPlayerCharacter': type name first seen using 'struct' now seen using 'class'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(377): message : see declaration of 'AAthenaPlayerCharacter'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(2611,22): warning C4099: 'UNetConnection': type name first seen using 'struct' now seen using 'class'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(2589): message : see declaration of 'UNetConnection'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(2612,22): warning C4099: 'UNetConnection': type name first seen using 'struct' now seen using 'class'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(2589): message : see declaration of 'UNetConnection'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(2620,15): warning C4099: 'UWorld': type name first seen using 'class' now seen using 'struct'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(2620): message : see declaration of 'UWorld'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(2659,29): warning C4099: 'UMeleeAttackDataAsset': type name first seen using 'struct' now seen using 'class'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\SDK.h(2642): message : see declaration of 'UMeleeAttackDataAsset'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(238,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(345,24): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(561,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(572,68): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(572,40): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(593,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(637,77): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(637,48): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(675,83): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(759,88): warning C4305: 'argument': truncation from 'ImGuiColumnsFlags_' to 'bool'
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(814,76): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(814,48): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(833,72): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(833,44): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(843,91): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(885,76): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(885,48): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(912,76): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(912,48): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(932,80): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(932,52): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(960,80): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(960,52): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(987,80): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(987,52): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(1006,80): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(1006,52): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(1022,80): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(1022,52): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(1081,72): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(1081,44): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(1159,76): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(1159,48): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(1169,72): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(1169,44): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(1287,78): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(1287,52): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(1311,74): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(1311,48): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(1329,80): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(1329,52): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(1345,51): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(1356,97): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(1356,56): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(1388,80): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\Cheat\cheat.cpp(1504,80): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 27 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Cheat.vcxproj -> C:\Users\Mike\Documents\Mung-Hook\Mung-Hook Source\bin\Release\Cheat.dll
